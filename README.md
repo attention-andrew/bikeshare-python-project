@@ -3,7 +3,7 @@ Documentation updated: October 2025
 
 ### Bike Share Data Analysis
 
-### Description
+#### Description
 Given real data about bicycle-sharing systems, I created a Python script using NumPy and Pandas to uncover patterns between 3 large cities: Chicago, New York City, and Washington, DC.
 
 Utilized multiple statistic computations to analyze:
@@ -11,6 +11,7 @@ Utilized multiple statistic computations to analyze:
 - Popular stations and trips
 - Trip duration
 - User info
+
 *The Analysis of these data points can drive decisions to optimize the bike share business.*
 
 ### Files used
