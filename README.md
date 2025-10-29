@@ -15,9 +15,9 @@ Utilized multiple statistic computations to analyze:
 *The Analysis of these data points can drive decisions to optimize the bike share business.*
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
+bikeshare.py \n
+chicago.csv \n
+new_york_city.csv \n
 washington.csv
 
 ### Credits
