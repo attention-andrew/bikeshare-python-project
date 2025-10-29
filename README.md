@@ -10,7 +10,8 @@ Utilized multiple statistic computations to analyze:
 - Popular times of travel
 - Popular stations and trips
 - Trip duration
-- User info  
+- User info
+
 *The Analysis of these data points can drive decisions to optimize the bike share business.*
 
 ### Files used
